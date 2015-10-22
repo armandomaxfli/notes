@@ -22,6 +22,9 @@ blast\
 
 here is how  you _might_ be able to add a local image file 
 
-![picture-water](./archivo donde lo tengo/nombre del archivo)
+![picture-desert](./img/dinoflagelado.jpg/)
 
 hubo un cambio
+
+estas cosas son del diablo
+
